@@ -450,18 +450,7 @@ const Header = () => {
                                     </ul>
                                 </AccordionContent>
                             </AccordionItem>
-                            <AccordionItem value="item-4">
-                                <Link
-                                    href="https://medium.com/@xettletechnologies"
-                                    target="_blank"
-                                >
-                                    <DrawerClose asChild>
-                                        <AccordionTrigger>
-                                            Blog
-                                        </AccordionTrigger>
-                                    </DrawerClose>
-                                </Link>
-                            </AccordionItem>
+                            
                         </Accordion>
                     </DrawerContent>
                 </Drawer>

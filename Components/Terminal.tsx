@@ -44,7 +44,7 @@ const Terminal = () => {
                                 delay: 20,
                                 // strings: [
                                 //     `curl --request GET
-                                //         --url https://dashboard.sat.net/v1/service/upi/status/SM8989
+                                //         --url https://satmoney.in/
                                 //         --header 'accept: application/json`,
                                 // ],
                                 // autoStart: terminalVisibilityFinal,
@@ -53,7 +53,7 @@ const Terminal = () => {
                                 typewriter
                                     .typeString(
                                         `curl --request GET
-                                        --url https:/satmoney.in/
+                                        --url https://satmoney.in/
                                         --header 'accept: application/json`
                                     )
                                     .callFunction(() => {
