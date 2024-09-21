@@ -10,7 +10,7 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-    title: "Fin-tech Software Development | Xettle.net",
+    title: "Fin-tech Software Development | satmoney.in",
     verification: { google: "vCfgnA3NzYM0MQcSROsl_BjSWB63Jjr_OuYzPg9xAT0" },
 };
 
