@@ -154,38 +154,38 @@ export const Footer = () => {
 
                                 <nav className="mt-5">
                                     <ul className="space-y-4 text-sm">
-                                        <li>
+                                        {/* <li>
                                             <Link
                                                 className="text-white transition hover:text-white/75"
                                                 href="/services/aeps"
                                             >
                                                 AePS Services
                                             </Link>
-                                        </li>
-                                        <li>
+                                        </li> */}
+                                        {/* <li>
                                             <Link
                                                 className="text-white transition hover:text-white/75"
                                                 href="/services/utility-payments"
                                             >
                                                 Utility Payment Solutions
                                             </Link>
-                                        </li>
-                                        <li>
+                                        </li> */}
+                                        {/* <li>
                                             <Link
                                                 className="text-white transition hover:text-white/75"
                                                 href="/services/domestic-money-transfer"
                                             >
                                                 Domestic Money Transfer
                                             </Link>
-                                        </li>
-                                        <li>
+                                        </li> */}
+                                        {/* <li>
                                             <Link
                                                 className="text-white transition hover:text-white/75"
                                                 href="/services/micro-atm"
                                             >
                                                 Micro ATM
                                             </Link>
-                                        </li>
+                                        </li> */}
                                         <li>
                                             <Link
                                                 className="text-white transition hover:text-white/75"

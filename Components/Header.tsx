@@ -103,33 +103,33 @@ const Header = () => {
     };
 
     const services = [
-        {
-            title: "AePS Services",
-            description: "Empowering transactions with seamless AEPS service",
-            href: "/services/aeps",
-            svg: Aeps,
-        },
-        {
-            title: "Utility Payment Solutions",
-            description:
-                "Comprehensive BBPS service for seamless bill payments and recharges",
-            href: "/services/utility-payments",
-            svg: Bbps,
-        },
-        {
-            title: "Domestic Money Transfer",
-            description:
-                "Instant domestic money transfers for seamless, quick financial transactions",
-            href: "/services/domestic-money-transfer",
-            svg: Dmt,
-        },
-        {
-            title: "Micro ATM",
-            description:
-                "Portable mATM for cash withdrawals and balance enquiries anywhere",
-            href: "/services/micro-atm",
-            svg: Atm,
-        },
+        // {
+        //     title: "AePS Services",
+        //     description: "Empowering transactions with seamless AEPS service",
+        //     href: "/services/aeps",
+        //     svg: Aeps,
+        // },
+        // {
+        //     title: "Utility Payment Solutions",
+        //     description:
+        //         "Comprehensive BBPS service for seamless bill payments and recharges",
+        //     href: "/services/utility-payments",
+        //     svg: Bbps,
+        // },
+        // {
+        //     title: "Domestic Money Transfer",
+        //     description:
+        //         "Instant domestic money transfers for seamless, quick financial transactions",
+        //     href: "/services/domestic-money-transfer",
+        //     svg: Dmt,
+        // },
+        // {
+        //     title: "Micro ATM",
+        //     description:
+        //         "Portable mATM for cash withdrawals and balance enquiries anywhere",
+        //     href: "/services/micro-atm",
+        //     svg: Atm,
+        // },
         {
             title: "Fin-Tech Software",
             description:
