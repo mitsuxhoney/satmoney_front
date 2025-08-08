@@ -9,7 +9,7 @@ import Link from "next/link";
 
 import "./header.css";
 
-import Logo from "app/SATlogo2.png";
+import Logo from "app/SATLogoHeader.png";
 import cmpny from "./cmpny.png";
 // import Ham from "@/Components/ham";
 // import X from "@/Components/x";
@@ -169,7 +169,7 @@ const Header = () => {
                         className="scale-[0.85] lg:scale-100 relative z-[100]"
                     >
                         <Link href="/" className="flex items-center gap-2">
-                            <div className="lg:h-[8vh] h-[7vh] relative w-[130px]">
+                            <div className="lg:h-[8vh] h-[7vh] relative w-[180px]">
                                 <Image
                                 className=""
                                     src={Logo}
