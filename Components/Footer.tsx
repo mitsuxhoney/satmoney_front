@@ -2,7 +2,7 @@ import React from "react";
 import "./footer.css";
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "@/app/SATLogoFooter.png";
+import Logo from "@/Components/SATLogoFooter.png";
 
 export const Footer = () => {
     return (
