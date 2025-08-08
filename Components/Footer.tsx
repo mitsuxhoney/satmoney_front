@@ -3,7 +3,7 @@ import "./footer.css";
 
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "app/SATlogoFooter.png";
+import Logo from "app/SATLogoFooter.png";
 
 export const Footer = () => {
     return (
@@ -12,8 +12,8 @@ export const Footer = () => {
                 <div className="max-w-screen-xl px-4 pt-16 pb-6 mx-auto sm:px-6 lg:px-8 lg:pt-16">
                     <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                         <div>
-                            <div className="flex justify-center text-teal-300 sm:justify-start m-4">
-                                <Image src={Logo} alt="logo" width={140} />
+                            <div className="flex justify-start w-[200px] text-teal-300 sm:justify-start m-4">
+                                <Image src={Logo} alt="logo"  />
                             </div>
 
                             <p className="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400 sm:max-w-xs sm:mx-0 sm:text-left">
